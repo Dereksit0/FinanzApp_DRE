@@ -1,0 +1,3 @@
+"""FinanzApp: control de gastos personales."""
+
+__version__ = "0.1.0"
